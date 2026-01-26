@@ -189,3 +189,5 @@ Linux: Установите шрифты ttf-mscorefonts-installer
 - Matplotlib - визуализация данных
 - ReportLab - генерация PDF отчетов
 - Pandas - обработка CSV файлов
+
+с входными и выходными примерами можете ознакомиться в ветках: report, abiturients
